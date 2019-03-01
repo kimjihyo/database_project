@@ -9,3 +9,24 @@
 #footer .container {
     text-align: center;
 }
+
+#paypal-info-text {
+    color: rgb(71, 71, 71);
+}
+
+#paypal-img {
+    width: 8em;
+}
+
+#visamastercard-img {
+    width: 8em;
+}
+
+#payment-method {
+    border: 1px solid rgb(231, 231, 231);
+    border-radius: 8px;
+    padding: 1em;
+}
+h4 {
+    color: rgb(65, 65, 65);
+}
